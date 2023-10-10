@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.910490e6.css",
+    "main.js": "/static/js/main.884b8d53.js",
+    "static/media/geoSpace.gif": "/static/media/geoSpace.d482f8a98ca08b1b31cb.gif",
+    "static/media/baby_cry.png": "/static/media/baby_cry.fdde4c064b264735d393.png",
+    "static/media/std.png": "/static/media/std.8235fc3267608b823432.png",
+    "static/media/medismart.png": "/static/media/medismart.f782b036be90ea2ba97a.png",
+    "static/media/matchAnalysis.png": "/static/media/matchAnalysis.afcb8c1422a45f627bd2.png",
+    "static/media/fastapi_sklearn.png": "/static/media/fastapi_sklearn.0bfaec4cff582eb26751.png",
+    "static/media/portfolio.png": "/static/media/portfolio.565c9c29306627d2173d.png",
+    "static/media/phobia.png": "/static/media/phobia.d36534d9a9f596ab96ab.png",
+    "static/media/method3.png": "/static/media/method3.ebeff0bc678e2886a681.png",
+    "static/media/cbot.png": "/static/media/cbot.4099321975eda48e4fc9.png",
+    "static/media/r_std.jpg": "/static/media/r_std.f436a4164ded7b1a23b5.jpg",
+    "static/media/hdfsarchitecture.gif": "/static/media/hdfsarchitecture.9d11915f7ef1ff3877c5.gif",
+    "static/media/trafficSign.jpeg": "/static/media/trafficSign.c3c270c2d279b8097c1c.jpeg",
+    "index.html": "/index.html",
+    "main.910490e6.css.map": "/static/css/main.910490e6.css.map",
+    "main.884b8d53.js.map": "/static/js/main.884b8d53.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.910490e6.css",
+    "static/js/main.884b8d53.js"
+  ]
+}
